@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <div className='md:hidden block'>
-        <div className='w-full relative'>
+        <div className='w-full relative text-white dark:text-white'>
           <Image className='z-0 w-full' src={imgHeader} alt='header saluang oyak'></Image>
           <div className='absolute z-10 top-24'>
             <h2 className='font-sans font-bold text-3xl ms-24 mb-2'>Saluang Oyak</h2>
