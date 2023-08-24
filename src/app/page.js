@@ -71,7 +71,7 @@ export default function Home() {
                 Kami mengundang Anda untuk berkontribusi melalui donasi dalam acara Saluang Oyak kami. Dukungan Anda akan membantu mempertahankan warisan budaya kami dan memastikan kesinambungan seni musik tradisional ini. Setiap sumbangan adalah langkah menuju melestarikan warisan berharga bagi generasi mendatang.
               </p>
               <p className='font-sans font-semibold'>Kirimkan donasi anda ke :</p>
-              <p className='font-sans font-semibold text-sm'>BRI : 5502-0101-0727-536 ( Fauzan Hidayat )</p>
+              <p className='font-sans font-semibold text-sm'>BRI : 5505-01-023424-53-5 ( ASWAR EFENDI )</p>
             </div>
           </div>
 
